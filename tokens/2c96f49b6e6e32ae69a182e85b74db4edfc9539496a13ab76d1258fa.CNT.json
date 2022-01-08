@@ -1,0 +1,10 @@
+{
+    "policyId": "2c96f49b6e6e32ae69a182e85b74db4edfc9539496a13ab76d1258fa",
+    "name": "CardanoNativeToken",
+    "symbol": "CNT",
+    "website": "",
+    "description": "Cardano Native Token",
+    "totalSupply": 21000000,
+    "amounts": [1, 10, 20],
+    "decimalPlaces": 0
+}
